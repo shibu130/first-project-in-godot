@@ -1,2 +1,2 @@
 # first-project-in-godot
-i created a project in godot which accepts data from user and uses those data to display some strings finally
+this project loads questions and some string from a json file and finally displays a large string along with the input, well a dead simple project!!!
