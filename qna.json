@@ -1,0 +1,10 @@
+[
+{
+ "question":["name","nickname","age"],"story":"the person %s with nickname %s has age %s"
+},
+{
+	"question":["name","company"],"story":" %s made a blunder of joining %s"
+}
+
+
+]
